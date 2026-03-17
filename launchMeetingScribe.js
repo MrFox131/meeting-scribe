@@ -43,7 +43,7 @@ export const launchMeetingScribe = async (entryPoint, options) => {
       '--no-first-run',
       '--start-maximized',
       '--no-default-browser-check',
-      '--auto-accept-camera-and-microphone-capture',
+      '--use-fake-ui-for-media-stream',
       `--load-extension=${extensionPath}`,
     ],
   };
