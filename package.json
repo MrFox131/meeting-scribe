@@ -1,6 +1,6 @@
 {
   "name": "@100mslive/meeting-scribe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Record audio and video tracks of each peer in a meeting",
   "main": "index.js",
   "scripts": {
